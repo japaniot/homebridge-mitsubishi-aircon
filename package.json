@@ -1,0 +1,22 @@
+{
+  "name": "homebridge-mitsubishi-aircon",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "keywords": [
+    "homebridge-plugin",
+    "homekit"
+  ],
+  "licenses": [
+    {
+      "name": "cc by-nc-sa 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    }
+  ],
+  "engines": {
+    "homebridge": ">= 0.4.0"
+  },
+  "dependencies": {
+    "node-fetch": "2.6.0",
+    "xml-js": "1.6.11"
+  }
+}

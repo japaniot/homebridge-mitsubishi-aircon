@@ -1,0 +1,14 @@
+<CSV>
+  <SETTING_REQUEST>
+    <CODE>
+      <COMMAND>
+        <NAME>USER_AUTH</NAME>
+        <PARAMS>
+          <PASSWORD>{PASS}</PASSWORD>
+        </PARAMS>
+      </COMMAND>
+    </CODE>
+    <PASSWORD>{PASS}</PASSWORD>
+    <USER_ID>{USER}</USER_ID>
+  </SETTING_REQUEST>
+</CSV>

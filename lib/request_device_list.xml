@@ -1,0 +1,11 @@
+<CSV>
+  <GET_REQUEST>
+    <CODE>
+      <COMMAND>
+        <NAME>GET_DEVICE_LIST</NAME>
+      </COMMAND>
+    </CODE>
+    <PASSWORD>{PASS}</PASSWORD>
+    <USER_ID>{USER}</USER_ID>
+  </GET_REQUEST>
+</CSV>
