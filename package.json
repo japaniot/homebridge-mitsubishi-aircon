@@ -1,6 +1,6 @@
 {
   "name": "homebridge-mitsubishi-aircon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/index.js",
   "keywords": [
     "homebridge-plugin",
