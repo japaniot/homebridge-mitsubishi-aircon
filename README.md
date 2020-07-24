@@ -8,6 +8,7 @@ Homebridge plugin for Mitsubishi air conditioners.
 "platforms": [
   {
     "platform": "MitsubishiAircon",
+    "useDryForCool": false,
     "user": "USERNAME",
     "pass": "PASSWORD"
   }
